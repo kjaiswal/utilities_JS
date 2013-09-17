@@ -1,0 +1,43 @@
+.yui-widget-hd {
+	background-color:#b0c4de;
+}
+
+.yui-widget-bd {
+	background-color:#E6E6FA;
+	height: 500px; 
+}
+
+.yui-widget-ft {
+    background-color: #696969;
+}
+
+.icons {
+    position: relative;
+    left: 240px;
+	top: 8px;
+    cursor: pointer;
+    cursor: hand;
+    height: 2.2em;
+}
+
+.fIcons {
+    position: relative;
+    left: 400px;
+	top: 8px;
+    cursor: pointer;
+    cursor: hand;
+    height: 2.2em;
+}
+
+.yui-widget-minimized-hd {
+     height: 20px;
+	 width: 200px;
+	 background-color:#b0c4de;
+     background-image: url("images/maximize.gif");
+     background-repeat: no-repeat;
+     valign: top;
+}
+
+#m-icons-spacer{
+     width: 180px;
+}
