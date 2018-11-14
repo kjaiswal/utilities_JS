@@ -1,1 +1,1 @@
-Some Javascript code snippets.
+Some Javascript code snippets, for fun.
